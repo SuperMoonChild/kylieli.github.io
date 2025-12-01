@@ -2,14 +2,15 @@
 title:       Kylie's Blog ✨
 description: "Connecting dots... from Data to Destiny. 📊🔮"
 url:         https://kylieli.github.io
+baseurl:     ""   # 👈 这一行非常重要，之前缺了！
 
 # Author
 author:
   name:      Kylie
-  email:     sophieli1231@gmail.com  # ⚠️ 记得把这里改成你自己的邮箱
+  email:     sophieli1231@gmail.com
   url:       https://kylieli.github.io
 
-# Build settings (这些不要动，保持原样以确保主题正常运行)
+# Build settings
 markdown:    kramdown
 
 # Assets
@@ -21,7 +22,6 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  # - jemoji # Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:   /:year-:month-:day/:title
@@ -34,7 +34,6 @@ related_posts_section:
 
 # Links to social media
 social:
-  email:     sophieli1231@gmail.com  # ⚠️ 记得改成你的邮箱
+  email:     sophieli1231@gmail.com
   github:    https://github.com/kylieli
-  # twitter: https://twitter.com/yourusername  (如果你有推特，把前面的 # 去掉并填上地址)
-  linkedin:  https://www.linkedin.com/in/kaili8/ (如果你有领英，把前面的 # 去掉并填上地址)/in/inela-avdic-hukic-322354131
+  linkedin:  https://www.linkedin.com/in/kaili8/
