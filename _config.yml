@@ -1,14 +1,14 @@
 # Site settings
 title:       Kylie's Blog ✨
 description: "Connecting dots... from Data to Destiny. 📊🔮"
-url:         https://kylieli.github.io
-baseurl:     ""   # 👈 这一行非常重要，之前缺了！
+url:         https://SuperMoonChild.github.io
+baseurl:     ""   # 👈 这一行保持为空，非常重要
 
 # Author
 author:
   name:      Kylie
   email:     sophieli1231@gmail.com
-  url:       https://kylieli.github.io
+  url:       https://SuperMoonChild.github.io
 
 # Build settings
 markdown:    kramdown
@@ -35,5 +35,5 @@ related_posts_section:
 # Links to social media
 social:
   email:     sophieli1231@gmail.com
-  github:    https://github.com/kylieli
+  github:    https://github.com/SuperMoonChild
   linkedin:  https://www.linkedin.com/in/kaili8/
