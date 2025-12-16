@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'The Product is the Prophet: How We Used Data to Discover Our SaaS "Magic Number" and Drive Profitable PLG Growth'
+title: 'The SaaS "Magic Number": How Data Unlocked Our PLG Growth'
 author: "Kylie"
-date: 2025-12-16
+date: 2025-12-01
 ---
 
 ![SaaS Magic Number Analysis 1](https://github.com/user-attachments/assets/a7ad4fef-92dd-44ce-9b4d-d15a54808a3d)
