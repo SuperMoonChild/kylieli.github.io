@@ -5,10 +5,9 @@ author: "Kylie"
 date: 2025-12-16
 ---
 
-<img width="1436" height="754" alt="image" src="https://github.com/user-attachments/assets/a7ad4fef-92dd-44ce-9b4d-d15a54808a3d" />
+![SaaS Magic Number Analysis 1](https://github.com/user-attachments/assets/a7ad4fef-92dd-44ce-9b4d-d15a54808a3d)
 
-
-<img width="1437" height="765" alt="image" src="https://github.com/user-attachments/assets/438fc2d4-334f-4d9c-9f45-c3270ed65fa8" />
+![SaaS Magic Number Analysis 2](https://github.com/user-attachments/assets/438fc2d4-334f-4d9c-9f45-c3270ed65fa8)
 
 
 ### I. The Data-Driven Evolution of Go-To-Market Strategy
